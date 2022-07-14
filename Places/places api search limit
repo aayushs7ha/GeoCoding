@@ -1,0 +1,1 @@
+By default, each place search returns up to 20 results per query. However, each search can return as many as 60 results, split across three pages. Additional pages are available via the PlaceSearchPagination object. In order to access additional pages you must capture the PlaceSearchPagination object via a callback function. The PlaceSearchPagination
