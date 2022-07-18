@@ -12,7 +12,7 @@
 import requests, json
 
 # enter your api key here
-api_key = 'AIzaSyBlOP6WbEBoce4SHGscO_d_yi8iZXDSzDc'
+api_key = '<API KEY HERE>'
 
 # url variable store url
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
